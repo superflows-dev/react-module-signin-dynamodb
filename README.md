@@ -35,6 +35,14 @@ After the module is called, the splash screen is loaded first. Splash screen che
 
 Then install the dependencies.
 
+
+## Install
+
+```bash
+npm install --save react-module-signin-dynamodb
+```
+Then install the dependencies.
+
 ## Dependencies
 
 ```bash
@@ -55,12 +63,6 @@ npm install --save react-ui-themes-superflows
 
 ```
 Then review the AWS configuration.
-
-## Install
-
-```bash
-npm install --save react-module-signin-dynamodb
-```
 
 ## Configuration
 
