@@ -1,6 +1,6 @@
 {
   "name": "react-module-signin-dynamodb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A react module that manages the passwordless sign in flow (email otp based), is based on AWS dynamodb as the backend",
   "author": "superflows-dev",
   "license": "MIT",
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^16.0.0||^17.0.0||^18.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
